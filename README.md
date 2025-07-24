@@ -27,7 +27,7 @@ Karena batasan ukuran GitHub, dataset tersedia melalui Google Drive:
 
 ---
 
-## 👨‍🎓 Penulis
+## 👨‍🎓 Pemilik
 
 **Elang Putra Adam**
 
